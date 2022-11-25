@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RetorofitApplication</string>
+    <string name="businessname">Business Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="already_registered_nlogin_here">Already Registered?\nLogin Here</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>
